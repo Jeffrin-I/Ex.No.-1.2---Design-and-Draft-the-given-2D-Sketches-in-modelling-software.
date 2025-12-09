@@ -36,7 +36,10 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![EDM-2 Cover(2)_page-0001](https://github.com/user-attachments/assets/c9aee89d-1f04-4261-b6c0-a0bc631eeb91)
+<img width="1919" height="1016" alt="Screenshot 2025-12-09 203006" src="https://github.com/user-attachments/assets/77ae08df-e1b7-40df-bf24-f098d4ebfe96" />
+
+![EDM-1 2 cover_page-0001](https://github.com/user-attachments/assets/43dde393-c41a-4326-8a46-f055629e591f)
+
 
  
  ## RESULT
